@@ -6,4 +6,4 @@ s1 = ""
 while (i <= x):
     s1 += str(i % 10)
     i += 1
-print (s1)
+print(s1)
